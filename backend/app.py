@@ -10,7 +10,7 @@ import hashlib
 import os
 
 app = Flask(__name__)
-CORS(app)  # Allow React frontend to call this backend
+CORS(app, origins="*", supports_credentials=True)  # Allow React frontend to call this backend
 
 DATABASE = "disaster_app.db"
 
