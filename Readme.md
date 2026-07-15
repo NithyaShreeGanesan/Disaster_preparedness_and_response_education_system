@@ -1,5 +1,7 @@
 # 🛡️ Disaster Preparedness and Response Education System
+📄 **Project Proposal:** See [PROJECT_PROPOSAL.md](./PROJECT_PROPOSAL.md) for the original problem statement, objectives, and planned system design.
 
+📄 **This document** describes the final implemented system — setup instructions, database schema, and API details.
 A full-stack web application for learning disaster safety, built with **React + Flask + SQLite**.
 
 ---
