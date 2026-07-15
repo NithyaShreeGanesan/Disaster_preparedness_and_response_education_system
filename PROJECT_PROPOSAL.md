@@ -1,3 +1,7 @@
+> **Note:** This document is the original project proposal — problem statement, objectives, and planned database design submitted for approval.
+> The final implemented system (see [README.md](./README.md)) uses a simplified schema focused on disaster info and quizzes, rather than the full Training/Alert/Incident-Report/Evacuation modules originally proposed here.
+
+---
 # Disaster Preparedness and Response Education System for Schools and Colleges
 
 ---
